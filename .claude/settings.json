@@ -2,13 +2,9 @@
   "extraKnownMarketplaces": {
     "impeccable": {
       "source": { "source": "github", "repo": "pbakaus/impeccable" }
-    },
-    "marketingskills": {
-      "source": { "source": "github", "repo": "coreyhaines31/marketingskills" }
     }
   },
   "enabledPlugins": {
-    "impeccable@impeccable": true,
-    "marketing-skills@marketingskills": true
+    "impeccable@impeccable": true
   }
 }
